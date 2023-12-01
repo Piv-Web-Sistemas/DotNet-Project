@@ -1,0 +1,15 @@
+F:\DotNet-Project\bin\Debug\net7.0\DotNet-Project.exe
+F:\DotNet-Project\bin\Debug\net7.0\DotNet-Project.deps.json
+F:\DotNet-Project\bin\Debug\net7.0\DotNet-Project.runtimeconfig.json
+F:\DotNet-Project\bin\Debug\net7.0\DotNet-Project.dll
+F:\DotNet-Project\bin\Debug\net7.0\DotNet-Project.pdb
+F:\DotNet-Project\obj\Debug\net7.0\DotNet-Project.csproj.AssemblyReference.cache
+F:\DotNet-Project\obj\Debug\net7.0\DotNet-Project.GeneratedMSBuildEditorConfig.editorconfig
+F:\DotNet-Project\obj\Debug\net7.0\DotNet-Project.AssemblyInfoInputs.cache
+F:\DotNet-Project\obj\Debug\net7.0\DotNet-Project.AssemblyInfo.cs
+F:\DotNet-Project\obj\Debug\net7.0\DotNet-Project.csproj.CoreCompileInputs.cache
+F:\DotNet-Project\obj\Debug\net7.0\DotNet-Project.dll
+F:\DotNet-Project\obj\Debug\net7.0\refint\DotNet-Project.dll
+F:\DotNet-Project\obj\Debug\net7.0\DotNet-Project.pdb
+F:\DotNet-Project\obj\Debug\net7.0\DotNet-Project.genruntimeconfig.cache
+F:\DotNet-Project\obj\Debug\net7.0\ref\DotNet-Project.dll
